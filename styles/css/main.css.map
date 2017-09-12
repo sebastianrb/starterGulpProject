@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","sources":["main.scss","_base.scss"],"sourcesContent":["@import\n\"./base\";\n","body {\n    color: red;\n}\n"],"names":[],"mappings":"ACAA,AAAA,IAAI,CAAC;EACD,KAAK,EAAE,GAAG,GACb"}
